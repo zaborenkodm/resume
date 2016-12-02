@@ -1,0 +1,12 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.wrapper {
+    width: 600px;
+    margin: 0 auto;
+}
+
+p, a, ul {
+    font-size: 18px;
+}
