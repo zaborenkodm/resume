@@ -12,6 +12,7 @@
 - [facebook](https://www.facebook.com/zaborenkodm)
 - [ВК](https://vk.com/zaborenkodm)
 - [Одноклассники](https://ok.ru/profile/261127976/about)
+- [instagram](https://www.instagram.com/zaborenkodm/)
 
 В качестве контакта указана моя _электронная почта_:
 <zaborenkodm@gmail.com>
